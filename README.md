@@ -1,6 +1,9 @@
-###                                                                                 Hello my fellow humans 👋
+### Hello my fellow humans 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="400"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 </div>
 <!--
 **herudegan/herudegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
