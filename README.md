@@ -11,8 +11,8 @@
 
 🌑 About me:
 Currently a student on SATC, Criciúma
-- 🤓 Second year on high school
-- 🤡 Second fase on the computer course that SATC has
+- 🤓 Third year on high school
+- 🤡 Fourth fase on the computer course that SATC has
 - 🤠 On free time i usually play, read mangá or watch series
 - ☎️ Discord: herudegas#6487
 - 🎮 Steam: нεrυd̶εɢคƞ
