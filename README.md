@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="400"/>
 </div>
 <h1 align="center">
-  Hey there my fellow human
+  Hey there fellow human
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -11,9 +11,9 @@
 
 🌑 About me:
 Currently a student on SATC, Criciúma
-- 🤓 Third year on high school
-- 🤡 Fourth fase on the computer course that SATC has
-- 🤠 On free time i usually play, read mangá or watch series
+- 🤓 Third year at high school
+- 🤡 Fourth fase at the "Informática" course that SATC has
+- 🤠 On free time i usually play video game, read mangá or watch series
 - ☎️ Discord: herudegas#6487
 - 🎮 Steam: нεrυd̶εɢคƞ
 - 📸 Instagram: @lucasb.frasson
