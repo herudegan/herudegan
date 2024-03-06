@@ -1,13 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="400"/>
-</div>
 <h1 align="center">
   Hey there fellow human
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
-</div>
 
 🌑 About me:
 Currently a student on UniSATC, Criciúma:
@@ -35,7 +29,4 @@ Currently a student on UniSATC, Criciúma:
   See you later fellow human
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/1W40UWS9peSru/giphy.gif" width="600px" height="300"/>
-</div>
 
