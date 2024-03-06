@@ -10,10 +10,9 @@
 </div>
 
 🌑 About me:
-Currently a student on SATC, Criciúma
-- 🤓 Third year at high school
-- 🤡 Fourth fase at the "Informática" course that SATC has
-- 🤠 On free time i usually play video game, read mangá or watch series
+Currently a student on UniSATC, Criciúma:
+- 🤓 First Year at "Engenharia da Computação" in college, UniSATC;
+- 🤠 On free time i usually play video game, read manga/manhwa/manhua or light novels;
 - ☎️ Discord: herudegas#6487
 - 🎮 Steam: нεrυd̶εɢคƞ
 - 📸 Instagram: @lucasb.frasson
