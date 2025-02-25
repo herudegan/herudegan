@@ -4,8 +4,8 @@
 
 🌑 About me:
 Currently a student on UniSATC, Criciúma:
-- 🤓 First Year at "Engenharia da Computação" in college, UniSATC;
-- 🤠 On free time i usually play video game, read manga/manhwa/manhua or light novels;
+- 🤓 Second Year at "Engenharia da Computação" in college, UniSATC (3º Fase/3º Phase);
+- 🤠 On free time I usually play video game, read manga/manhwa/manhua or light novels;
 - ☎️ Discord: herudegas
 - 🎮 Steam: нεrυd̶εɢคƞ
 - 📸 Instagram: @lucasb.frasson
